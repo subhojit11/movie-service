@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movie-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SD049419
+Implementation-Vendor-Id: com.subhojit.cse
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/movie-servi
+ ce
+Created-By: Maven Integration for Eclipse
+
